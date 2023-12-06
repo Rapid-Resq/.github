@@ -2,9 +2,9 @@
 ![Rapid ResQ]
 
 # Repository
-- [Machine Learning Repository](https://github.com/Rapid-ResQ/Selasar-MachineLearning)
-- [Mobile Development Repository](https://github.com/Rapid-ResQ/Selasar-AndroidDevelopment)
-- [Cloud Computing Repository](https://github.com/Rapid-ResQ/Selasar-CloudComputing)
+- [Machine Learning Repository](https://github.com/Rapid-Resq/ResQ-MachineLearning)
+- [Mobile Development Repository](https://github.com/Rapid-Resq/ResQ-AndroidDevelopment)
+- [Cloud Computing Repository](https://github.com/Rapid-Resq/Resq-CloudComputing)
 
 # Team Members
 
