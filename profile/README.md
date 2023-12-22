@@ -1,5 +1,5 @@
 # Introduction
-![Rapid ResQ]
+Rapid ResQ, a smartphone app, promises to revolutionize traffic safety and emergency response. Giving customers access to real-time information on accident-prone areas and aiding in prompt emergency response after an incident are two ways we hope to make driving safer and more responsive.
 
 # Repository
 - [Machine Learning Repository](https://github.com/Rapid-Resq/ResQ-MachineLearning)
